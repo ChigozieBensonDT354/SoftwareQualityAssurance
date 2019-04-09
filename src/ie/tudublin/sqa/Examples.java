@@ -22,10 +22,13 @@ public class Examples {
 			
 			return "FOUND";
 		}
-		else
+		else if(!numbers.contains(num))
 		{
+			System.out.println("NOT FOUND");
 			return "NOT FOUND";
 		}
+		else 
+			return "NULL";
 		
 	}
 

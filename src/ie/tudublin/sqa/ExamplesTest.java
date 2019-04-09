@@ -12,5 +12,11 @@ class ExamplesTest {
 		Examples ex = new Examples();
 		assertEquals("FOUND",ex.searchNumbers(1)); 
 	}
+	
+	@Test
+	void numNotInList() {
+		Examples ex = new Examples();
+		assertEquals("NOT FOUND",ex.searchNumbers(9)); 
+	}
 
 }
