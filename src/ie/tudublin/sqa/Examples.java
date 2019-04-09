@@ -31,5 +31,13 @@ public class Examples {
 			return "NULL";
 		
 	}
+	
+	public String checkNumber(String num)
+	{
+		//int ans = num + num;
+		int i = Integer.parseInt(num);
+		System.out.println("int value = " + i);
+		return num;
+	}
 
 }

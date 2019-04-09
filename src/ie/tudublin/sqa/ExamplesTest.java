@@ -18,5 +18,15 @@ class ExamplesTest {
 		Examples ex = new Examples();
 		assertEquals("NOT FOUND",ex.searchNumbers(9)); 
 	}
+	
+	@Test
+	public void checkIsNumber() {
+		Examples ex = new Examples();
+		 assertThrows(NumberFormatException.class, () -> {
+		        ex.checkNumber("hi");
+		    });
+		
+	}
+
 
 }
