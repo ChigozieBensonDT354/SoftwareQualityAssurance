@@ -21,8 +21,7 @@ Package contains java classes showing examples for exception handling, java bean
 Package contains unit testing examples for error handling, independant paths,
  boundary tests and measuring code coverage.
  * **The ie.tudublin.sqa.tests package** 
- Package contains the JUnit Test Cases for rror handling, independant paths,
- boundary tests and measuring code coverage.
+ Package contains the JUN
 ```
 
 ## Authors
