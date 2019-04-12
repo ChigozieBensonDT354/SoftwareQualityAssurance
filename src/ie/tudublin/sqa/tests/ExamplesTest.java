@@ -1,9 +1,11 @@
-package ie.tudublin.sqa;
+package ie.tudublin.sqa.tests;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
+
+import ie.tudublin.sqa.Examples;
 
 class ExamplesTest {
 
@@ -14,13 +16,13 @@ class ExamplesTest {
 	}
 	
 	@Test
-	void numNotInList() {
+	void testNumNotInList() {
 		Examples ex = new Examples();
 		assertEquals("NOT FOUND",ex.searchNumbers(9)); 
 	}
 	
 	@Test
-	public void checkIsNumber() {
+	public void testCheckIsNumber() {
 		Examples ex = new Examples();
 		 assertThrows(NumberFormatException.class, () -> {
 		        ex.checkNumber("hi");

@@ -10,9 +10,17 @@ public class Boundary {
 	
 	
 	public int addNumbers(int []numbers){
-		//int answer = numbers.get(0) + numbers.get(1) + numbers.get(2);
-		int max = numbers.length;
-		return max;
+		int answer =0;
+		
+		int max = 5;
+		int min = 0;
+		if(numbers.length <= max || numbers.length >= min) {
+			System.out.println(numbers.length);
+			 answer = numbers.length;
+		}
+	
+		System.out.println(answer);
+		return answer;
 		
 	}
 

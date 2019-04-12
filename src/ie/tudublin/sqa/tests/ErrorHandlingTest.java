@@ -1,8 +1,10 @@
-package ie.tudublin.sqa;
+package ie.tudublin.sqa.tests;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
+
+import ie.tudublin.sqa.Examples;
 
 class ErrorHandlingTest {
 
