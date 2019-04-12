@@ -18,7 +18,7 @@ Naming Conventions package contains java classes showing examples for exception 
 , commenting, variables and interfaces.
 The ie.tudublin.sqa package contains unit testing examples for error handling, independant paths,
  boundary tests and measuring code coverage.
-The ie.tudublin.sqa.tests package contains the JUnit Test Cases for rror handling, independant paths,
+The ie.tudublin.sqa.tests package contains the JUnit Test Cases for error handling, independant paths,
  boundary tests and measuring code coverage.
 
 
