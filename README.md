@@ -13,10 +13,15 @@ Git
 
 ## Code descriptions
 ```
-* **Naming Conventions** package contains java classes showing examples for exception handling, java beans,
+* **Naming Conventions package** 
+Package contains java classes showing examples for exception handling, java beans,
  classes, formatting, indentation
 , commenting, variables and interfaces.
-* **The ie.tudublin.sqa** contains unit testing examples for error handling, independant paths,
+* **The ie.tudublin.sqa package** 
+Package contains unit testing examples for error handling, independant paths,
+ boundary tests and measuring code coverage.
+ * **The ie.tudublin.sqa.tests package** 
+ Package contains the JUnit Test Cases for rror handling, independant paths,
  boundary tests and measuring code coverage.
 ```
 
