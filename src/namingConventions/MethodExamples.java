@@ -1,5 +1,10 @@
 package namingConventions;
 
+/**
+ * 
+ * @author I342031
+ * This class shows the way in which we define our methods
+ */
 public class MethodExamples {
 
 	public MethodExamples() {

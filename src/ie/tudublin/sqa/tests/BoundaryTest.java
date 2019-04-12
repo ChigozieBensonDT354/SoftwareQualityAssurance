@@ -10,10 +10,11 @@ import ie.tudublin.sqa.Boundary;
 /**
  * 
  * @author I342031
- * o	Let's say you need to test something that adds up to 5 numbers together. 
+ * This class is a test for the Boundary class
+ * Let's say you need to test something that adds up to 5 numbers together. 
  * Your first boundary test would be to pass a list containing no items, the lower boundary. 
  * Your next test would be to pass a list that contains 5 numbers, the upper boundary. Boundary tests are often easy to write as you try to test the maximum or minimum (or a combination of them) parameter values.
- * As explained in this class
+ *
  *
  */
 class BoundaryTest {

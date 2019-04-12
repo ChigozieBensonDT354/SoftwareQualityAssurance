@@ -1,5 +1,9 @@
 package ie.tudublin.sqa;
-
+/**
+ * 
+ * @author I342031
+ * This class checks whether a grade value is within its boundary
+ */
 public class GradeBoundary {
 
 	public GradeBoundary() {

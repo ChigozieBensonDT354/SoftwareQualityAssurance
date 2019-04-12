@@ -1,6 +1,11 @@
 package ie.tudublin.sqa;
 
 import java.util.ArrayList;
+/**
+ * 
+ * @author I342031
+ *This class takes in an array and checks whether its length is inside or outside the boundaries
+ */
 
 public class Boundary {
 

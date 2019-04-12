@@ -2,6 +2,12 @@ package namingConventions;
 
 import java.util.Date;
 
+
+/** 
+ * 
+ * @author I342031
+ * This class describes how we instansiate our variables
+ */
 public class VariableExample {
 	//Example of a one worded String variable
     String name = "Chigozie Benson";

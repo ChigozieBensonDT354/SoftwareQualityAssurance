@@ -6,6 +6,12 @@ import org.junit.jupiter.api.Test;
 
 import ie.tudublin.sqa.StringUtil;
 
+
+/**
+ * 
+ * @author I342031
+ *This class illustrates how we want our developers to use assertions instead of system.out.print's
+ */
 class StringUtilTest {
 
 	 @Test

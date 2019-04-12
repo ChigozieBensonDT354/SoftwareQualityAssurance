@@ -1,4 +1,9 @@
 package ie.tudublin.sqa;
+/**
+ * 
+ * @author I342031
+ * This class is designed to throw a number format exception when trying to parse a String
+ */
 
 public class ErrorHandling {
 

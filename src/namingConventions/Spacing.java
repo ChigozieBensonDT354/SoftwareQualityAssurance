@@ -1,5 +1,10 @@
 package namingConventions;
 
+/**
+ * 
+ * @author I342031
+ * This class defines the spacing we use
+ */
 public class Spacing {
 
 	public Spacing() {

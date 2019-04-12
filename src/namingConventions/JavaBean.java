@@ -1,5 +1,10 @@
 package namingConventions;
 
+/**
+ * 
+ * @author I342031
+ *This class shows how we layout our java beans
+ */
 public class JavaBean {
 	private String aString;
 	private int anInt;

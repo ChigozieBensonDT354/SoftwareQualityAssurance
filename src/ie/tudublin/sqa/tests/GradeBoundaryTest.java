@@ -6,7 +6,11 @@ import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 
 import ie.tudublin.sqa.GradeBoundary;
-
+/**
+ * 
+ * @author I342031
+ * This class tests the boundaries defined in the GradeBoundaryClass
+ */
 class GradeBoundaryTest {
 
 	@Test

@@ -2,9 +2,9 @@ package ie.tudublin.sqa.tests;
 /**
  * 
  * @author I342031
- *•	In this case, each time the calculateTime method is executed, it will return a different value. 
-•	Writing a test case for this method would not be of any use as the output of the method is variable. 
-•	Thus, the test method will not be able to verify the output for any particular execution.
+ *  In this case, each time the calculateTime method is executed, it will return a different value. 
+	Writing a test case for this method would not be of any use as the output of the method is variable. 
+	Thus, the test method will not be able to verify the output for any particular execution.
 
  */
 

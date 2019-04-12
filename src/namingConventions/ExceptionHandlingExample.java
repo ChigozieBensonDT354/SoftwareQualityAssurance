@@ -1,8 +1,16 @@
 package namingConventions;
 
 import java.io.File;
+
 import java.io.FileNotFoundException;
 import java.util.Scanner;
+/**
+ * 
+ * @author I342031
+ * This class shows our main error handling methods, 
+ * 1. Throwing an error
+ * 2. Using a try and catch block
+ */
 
 public class ExceptionHandlingExample {
 

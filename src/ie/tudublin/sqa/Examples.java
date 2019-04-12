@@ -1,6 +1,11 @@
 package ie.tudublin.sqa;
 
 import java.util.ArrayList;
+/**
+ * 
+ * @author I342031
+ *This classes deals with independent paths by checking whether an integer belongs to an already created list
+ */
 
 public class Examples {
 	
@@ -34,7 +39,7 @@ public class Examples {
 	
 	public String checkNumber(String num)
 	{
-		//int ans = num + num;
+		
 		int i = Integer.parseInt(num);
 		System.out.println("int value = " + i);
 		//returns the string passed
