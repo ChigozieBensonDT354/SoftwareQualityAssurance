@@ -13,7 +13,7 @@ import ie.tudublin.sqa.Boundary;
  * o	Let's say you need to test something that adds up to 5 numbers together. 
  * Your first boundary test would be to pass a list containing no items, the lower boundary. 
  * Your next test would be to pass a list that contains 5 numbers, the upper boundary. Boundary tests are often easy to write as you try to test the maximum or minimum (or a combination of them) parameter values.
- *  Please see the exam below
+ * As explained in this class
  *
  */
 class BoundaryTest {

@@ -1,0 +1,23 @@
+package namingConventions;
+
+public class Spacing {
+
+	public Spacing() {
+		// TODO Auto-generated constructor stub
+		correctSpacing("correct");
+		incorrectSpacing("incorrect");
+	}
+	
+	//All method names should be immediately followed by a left parenthesis
+	private void correctSpacing(String example)
+	{
+		
+	}
+	
+	private void incorrectSpacing (String example2)
+	{
+		
+	}
+
+
+}

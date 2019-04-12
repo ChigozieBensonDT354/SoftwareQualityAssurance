@@ -37,6 +37,7 @@ public class Examples {
 		//int ans = num + num;
 		int i = Integer.parseInt(num);
 		System.out.println("int value = " + i);
+		//returns the string passed
 		return num;
 	}
 
